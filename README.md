@@ -24,4 +24,4 @@ Tips for Staying Safe
 While public Wi-Fi networks offer convenience and accessibility, they also come with a variety of risks that users should be aware of. By following the tips outlined in this readme, you can help to protect yourself and your data while using public Wi-Fi networks. Remember to always be cautious when accessing sensitive information while connected to public Wi-Fi networks and to only connect to networks that you trust.
 
 ## Youtube Video
-[Video](yt.com)
+[Video](https://youtu.be/urQgX-yckJg)
